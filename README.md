@@ -1,4 +1,4 @@
-# Data recption
+# Data-reception
 
 Objective
 - The data receiving software would receive commands to be sent from the client-side via the TCP socket and transmit them via the web socket to the server.
