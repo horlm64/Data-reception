@@ -5,7 +5,6 @@ Objective
 - As soon as this software receives video streams from the server, it sends the processed video streams to the client via the TCP socket for display on the monitor
 
 Programming Language: C++ / C#
-Library
 - image processing: OpenCV
 - Socket programming: boost, websocketpp
 
